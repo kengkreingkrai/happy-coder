@@ -2,5 +2,5 @@ title: Happy-Coder
 description: A blog about coding and the universe
 layout:
   type: Manhattan
-bannerImage: ./banner.jpg
+bannerImage: ./assets/banner.jpg
 backgroundColor: "#FAF5EF"
