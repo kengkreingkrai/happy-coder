@@ -2,7 +2,8 @@
 title: Read me
 subTitle: This is a description of this post.
 date: 1989/07/11
-bannerImage: /assets/banner.png
+bannerImage: 
+  path: ../assets/banner.png
 slug: this-is-my-slug
 tags: [kubernetes, graphql]
 authors:
