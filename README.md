@@ -4,7 +4,8 @@ subTitle: This is a description of this post.
 date: 1989/07/11
 slug: this-is-my-slug
 tags: [kubernetes, graphql]
-bannerImage: ./assets/banner.jpg
+bannerImage: 
+  path: ./assets/banner.jpg
 authors:
   - author-1
   - author-2
